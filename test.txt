@@ -1,4 +1,4 @@
 Objectif de cette branche : 
 
-- réorganiser les conbtrollers
+- réorganiser les controllers
 - ajouter des fonctionnalités
